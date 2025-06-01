@@ -27,7 +27,7 @@ To get this project up and running on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/electron-with-vite-react.git
+    git clone https://github.com/uvesh-200/electron-with-vite-react-boilerplate.git
     cd electron-with-vite-react
     ```
 
